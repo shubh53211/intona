@@ -1,0 +1,5 @@
+streamlit==1.66.1
+librosa==0.11.0
+numpy
+pandas
+soundfile
